@@ -1,0 +1,15 @@
+== *Инструкция о покупке билета на сайте rzd.ru*
+ 
+*Шаг 1.* Вход в аккаунт на сайте rzd.ru
+
+. Для перехода на сайт https://www.rzd.ru[rzd.ru], необходимо ввести в адресной строке браузера поисковой запрос «РЖД» (рис.1) или адрес сайта «rzd.ru» (рис.2).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/1.png[height=250] рис.1
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/2.png[width=450] рис.2
+_При переходе на rzd.ru открывается главная страница сайта (рис. 3)._
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/3.png[height=250] рис.3
+. Для покупки билета необходимо осуществить вход в аккаунт путем перехода в поле «Вход» (рис. 4).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/4.png[height=250] рис.4
+. Если Вы являетесь авторизованным пользователем, то для дальнейшего оформления билетов, необходимо войти в аккаунт. Для этого в окне «Вход»следует ввести свой логин пароль (рис. 5).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/5.png[height=250] рис.5
+. Если Вы являетесь неавторизованным пользователем, необходимо пройти процесс регистрации, указав всю необходимую информацию в полях окна «Регистрация» и нажать кнопку «Зарегистрироваться» (рис. 6).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/6.png[height=250] рис.6

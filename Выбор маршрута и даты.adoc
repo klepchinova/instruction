@@ -1,0 +1,11 @@
+*Шаг 2.* Выбор маршрута и даты
+
+. После входа в аккаунт, на главной странице в разделе «Купить билет» необходимо ввести информацию о точках отправления и прибытия (рис. 7). _Полное название станций вводить не обязательно, так как в справочнике по поиску станций есть их список._
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/7.png[height=250] рис. 7 
+. Также в разделе «Купить билет» следует указать дату отравления, выбрав ее в выпадающем календаре (рис. 8). _При необходимости, можно выбрать дату обратной поездки (рис. 9)._
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/8.png[height=250] рис. 8 
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/9.png[height=250] рис. 9
+. После ввода всей необходимой информации, следует перейти к выбору поезда путем нажатия кнопки «Найти» (рис. 10).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/10.png[height=250] рис. 10
+. Если поля «Откуда», «Куда» или «Туда» будут не заполнены, сервис не даст перейти к дальнейшему выбору поезда и оформлению билетов. (рис. 11).
+image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/11.png[height=250] рис. 11
