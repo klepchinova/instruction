@@ -1,13 +1,13 @@
 == *Инструкция о покупке билета на сайте rzd.ru*
 
-.include::Log_in.adoc[]
+include::Log_in.adoc[]
 
-.include::Choice_of_route_and_date.adoc[]
+ include::Choice_of_route_and_date.adoc[]
 
-.include::Train_selection.adoc[]
+include::Train_selection.adoc[]
 
-.include::Choice_seat.adoc[]
+include::Choice_seat.adoc[]
 
-.include::Passenger_information.adoc[]
+include::Passenger_information.adoc[]
 
-.include::Data_verification_and_payment.adoc[]
+include::Data_verification_and_payment.adoc[]
