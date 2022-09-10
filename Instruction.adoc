@@ -1,14 +1,6 @@
 == *Инструкция о покупке билета на сайте rzd.ru*
 
-<<<<<<< HEAD
 include::Log_in.adoc[]
-=======
-include::Log_in.adoc[Шаг 1]
-
-include::Choice_of_route_and_date.adoc[Шаг 2]
- 
-*Шаг 1.* Вход в аккаунт на сайте rzd.ru
->>>>>>> 2b877c6 (редактирование файла)
 
 include::Choice_of_route_and_date.adoc[]
 
