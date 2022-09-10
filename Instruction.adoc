@@ -1,63 +1,13 @@
 == *Инструкция о покупке билета на сайте rzd.ru*
- 
-*Шаг 1.* Вход в аккаунт на сайте rzd.ru
 
-. Для перехода на сайт https://www.rzd.ru[rzd.ru], необходимо ввести в адресной строке браузера поисковой запрос «РЖД» (рис.1) или адрес сайта «rzd.ru» (рис.2).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/1.png[height=250] рис.1
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/2.png[width=450] рис.2
-_При переходе на rzd.ru открывается главная страница сайта (рис. 3)._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/3.png[height=250] рис.3
-. Для покупки билета необходимо осуществить вход в аккаунт путем перехода в поле «Вход» (рис. 4).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/4.png[height=250] рис.4
-. Если Вы являетесь авторизованным пользователем, то для дальнейшего оформления билетов, необходимо войти в аккаунт. Для этого в окне «Вход»следует ввести свой логин пароль (рис. 5).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/5.png[height=250] рис.5
-. Если Вы являетесь неавторизованным пользователем, необходимо пройти процесс регистрации, указав всю необходимую информацию в полях окна «Регистрация» и нажать кнопку «Зарегистрироваться» (рис. 6).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/6.png[height=250] рис.6
+include::Log_in.adoc[]
 
-*Шаг 2.* Выбор маршрута и даты
+include::Choice_of_route_and_date.adoc[]
 
-. После входа в аккаунт, на главной странице в разделе «Купить билет» необходимо ввести информацию о точках отправления и прибытия (рис. 7). _Полное название станций вводить не обязательно, так как в справочнике по поиску станций есть их список._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/7.png[height=250] рис. 7 
-. Также в разделе «Купить билет» следует указать дату отравления, выбрав ее в выпадающем календаре (рис. 8). _При необходимости, можно выбрать дату обратной поездки (рис. 9)._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/8.png[height=250] рис. 8 
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/9.png[height=250] рис. 9
-. После ввода всей необходимой информации, следует перейти к выбору поезда путем нажатия кнопки «Найти» (рис. 10).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/10.png[height=250] рис. 10
-. Если поля «Откуда», «Куда» или «Туда» будут не заполнены, сервис не даст перейти к дальнейшему выбору поезда и оформлению билетов. (рис. 11).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/11.png[height=250] рис. 11
+include::Train_selection.adoc[]
 
-*Шаг 3.* Выбор поезда
+include::Choice_seat.adoc[]
 
-. При переходе на страницу выбора поезда, пользователю представляется информация о всех возможные вариантах, соответствующих данным указанным на шаге 2 (рис. 12). _Для каждого рейса указывается время отравления и прибытия, маршрут движения, а также цены на билеты._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/12.png[height=250] рис. 12
-. Для более быстрого и удобного поиска подходящего рейса можно воспользоваться фильтром, где указать необходимое время отправления/время прибытия, стоимость билета или время в пути (рис. 13).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/13.png[height=250] рис. 13
-. После выбора подходящего поезда необходимо выбрать класс обслуживания в соответствии с пожеланиями пассажира (рис. 14). _Для каждого класса указана информация о цене, наличие мест, типе вагона и предоставляемых услугах._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/14.png[height=250] рис. 14
-. Для выбора подходящего класса обслуживания и перехода к выбору места следует нажать кнопку «Продолжить» (рис. 15).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/15.png[height=250] рис. 15
- 
-*Шаг 4.* Выбор места
+include::Passenger_information.adoc[]
 
-. В соответствии с классом обслуживания, указанном на шаге 3, пользователю предоставляется выбор подходящего вагона и места.
-. Выбор вагона осуществляется нажатием на его номер (рис. 16).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/16.png[height=250] рис. 16
-. Выбор места осуществляется нажатием на его номер (рис.17). _О выбранном месте указывается соответствующая информация: цена, класс обслуживания, расположение места._
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/17.png[height=250] рис. 17
-
-*Шаг 5.* Информация о пассажире
-
-. Для ввода данных о пассажире необходимо перейти в окно «Ввести данные» (рис. 18).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/18.png[height=250] рис. 18
-. В открывшемся окне необходимо ввести информацию о пассажире, который будет выполнять поездку: ФИО, пол, дату рождения, номер документа и контактную информацию (номер телефона/адрес электронной почты) (рис. 19).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/19.png[height=250] рис. 19
-
-*Шаг 6.* Проверка данных и оплата
-
-. Для проверки указанных данных необходимо нажать на кнопку «Оформить заказ», после чего система перенаправит на страницу билета, где будет указана полная информация о рейсе, пассажире, возможности оформления багажа и цене (рис. 20).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/20.png[height=250] рис. 20
-. Для оплаты билета необходимо внизу страницы нажать кнопку «Оплатить» (рис. 21) и перейти на страницу ввода данных банковской карты (рис. 22).
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/21.png[height=250] рис. 21
-image:https://raw.githubusercontent.com/klepchinova/instruction/main/photo/22.png[height=250] рис. 22
-
-=== *Билет приобретен!*
+include::Data_verification_and_payment.adoc[]
