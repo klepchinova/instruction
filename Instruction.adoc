@@ -2,7 +2,7 @@
 
 include::Log_in.adoc[]
 
- include::Choice_of_route_and_date.adoc[]
+include::Choice_of_route_and_date.adoc[]
 
 include::Train_selection.adoc[]
 
