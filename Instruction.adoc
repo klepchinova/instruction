@@ -11,3 +11,6 @@ include::Choice_seat.adoc[]
 include::Passenger_information.adoc[]
 
 include::Data_verification_and_payment.adoc[]
+
+*Готовая инструкция:*
+include::Instruction.pdf[]
