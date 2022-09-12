@@ -1,16 +1,24 @@
-== *Инструкция о покупке билета на сайте rzd.ru*
+= *Инструкция о покупке билета на сайте rzd.ru*
 
-include::Log_in.adoc[]
+pass:[<div align="center"><b>Оглавление</b></div>]
 
-include::Choice_of_route_and_date.adoc[]
+. Шаг 1. Вход в аккаунт
+include::LogIn.adoc[]
 
-include::Train_selection.adoc[]
+. Шаг 2. Выбор маршрута и даты
+include::ChoiceOfRouteAndDate.adoc[tag=Шаг2^]
 
-include::Choice_seat.adoc[]
+. Шаг 3. Выбор поезда 
+include::TrainSelection.adoc[]
 
-include::Passenger_information.adoc[]
+. Шаг 4. Выбор места
+include::ChoiceSeat.adoc[]
 
-include::Data_verification_and_payment.adoc[]
+. Шаг 5. Информация о пассажире
+include::PassengerInformation.adoc[]
 
-*Готовая инструкция:*
+. Шаг 6. Проверка данных и оплата
+include::DataVerificationAndPayment.adoc[]
+
+. Готовая инструкция
 include::Instruction.pdf[]
